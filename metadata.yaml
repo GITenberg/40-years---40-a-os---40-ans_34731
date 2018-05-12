@@ -1,0 +1,30 @@
+_repo: 40-years---40-a-os---40-ans_34731
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lebert, Marie
+    gutenberg_agent_id: '32388'
+    url: http://www.gutenberg.org/2009/agents/32388
+description: ''
+gutenberg_bookshelf:
+- FR Livres, Collections et Bibliophilie
+- FR Services publics
+gutenberg_issued: '2010-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34731'
+language:
+- en
+- fr
+- es
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Project Gutenberg'
+- !lcc 'Z'
+title: 40 years / 40 años / 40 ans
+url: http://www.gutenberg.org/ebooks/34731
